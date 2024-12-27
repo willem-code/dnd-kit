@@ -12,6 +12,7 @@ server/dist
 public/dist
 storybook-static/
 /packages/**/*.js
+!/packages/eslint-config/**/*.js
 /packages/**/*.js.map
 /packages/**/*.cjs
 /packages/**/*.cjs.map
